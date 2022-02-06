@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#calc_1 {
+    width: 100%;
+    height: 100%;
+    background-color: #f2f2f2;
+    position: relative;
+}
+
+from1 {
+    padding: 4px 2px;
+}
+
+#bien1,
+#bien2,{
+    padding: 3px 3px;
+    margin: 2px 2px;
+}
+
+.btn {
+    padding: 4px 4px;
+}
+
+#calc_container {
+    border: 4px solid #ccc;
+    background-color: black;
+    padding: 5px 5px;
+    width: 200px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 40px;
+}
